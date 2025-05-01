@@ -1,0 +1,1 @@
+# forge-qr-code-generator
